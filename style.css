@@ -1,0 +1,32 @@
+#main {
+    width: 1000px;
+    float: left;
+}
+
+.pawns {
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    position: absolute;
+}
+
+#board {
+    background: url(Images/board.gif) no-repeat;
+    background-size: cover;
+    width: 650px;
+    height: 550px;
+    float: left;
+    margin-top: 8px;
+}
+
+#uselesstext1 {
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+footer {
+    font-size: larger;
+    color: darkred;
+
+}
